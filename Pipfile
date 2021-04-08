@@ -13,6 +13,7 @@ squarify = "*"
 sklearn = "*"
 ipykernel = "*"
 nltk = "*"
+bs4 = "*"
 
 [dev-packages]
 
