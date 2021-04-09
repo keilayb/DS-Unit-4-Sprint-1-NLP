@@ -8,14 +8,18 @@ numpy = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
-spacy = "*"
-squarify = "*"
 sklearn = "*"
+squarify = "*"
+beautifulsoup4 = "*"
+gensim = "*"
+pyldavis = "*"
+spacy = "*"
 ipykernel = "*"
-nltk = "*"
-bs4 = "*"
+pandarallel = "*"
+ipywidgets = "*"
+mapply = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
